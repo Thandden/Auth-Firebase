@@ -6,4 +6,4 @@ Firebase offers unlimited free authentication with email and password. This pack
 
 # Install
 
-  pip install auth-firebase
+    pip install auth-firebase
